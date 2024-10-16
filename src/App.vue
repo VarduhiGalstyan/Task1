@@ -24,5 +24,9 @@ const open =() => {
 </script>
 
 <style>
-
+button{
+  margin: 10px 42% ;
+  border-color: #2ca72c;
+  color: #2ca72c;
+}
 </style>
